@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/M01/Example1/M01.Example1.iml" filepath="$PROJECT_DIR$/M01/Example1/M01.Example1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/M01/Homework1/M01.Homework1.iml" filepath="$PROJECT_DIR$/M01/Homework1/M01.Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M01/Example2/Example2.iml" filepath="$PROJECT_DIR$/M01/Example2/Example2.iml" group="M01" />
+      <module fileurl="file://$PROJECT_DIR$/M01/Example1/M01.Example1.iml" filepath="$PROJECT_DIR$/M01/Example1/M01.Example1.iml" group="M01" />
+      <module fileurl="file://$PROJECT_DIR$/M01/Homework1/M01.Homework1.iml" filepath="$PROJECT_DIR$/M01/Homework1/M01.Homework1.iml" group="M01" />
     </modules>
   </component>
 </project>
